@@ -20,6 +20,6 @@ Documentation
 
 | Files        | Functionality        
 | ------------- |:-------------:| 
-| `Main.java`      | Handles most of the front-end functionality such as menus | 
-|  `Game.java`    | Initializes board (rendering) and handles all the frontend.| 
-| `Update.java` |Contains  the necessary functions for updating the board.|
+| `index.html`      | Handles most of the front-end functionality such as menus | 
+|  `Main.css`    | Initializes board (rendering) and handles all the frontend.| 
+| `Main.js` |Contains  the necessary functions for updating the board.|

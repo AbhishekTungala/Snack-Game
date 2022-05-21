@@ -9,7 +9,7 @@ Description
 
 **Languages:** HTML,CSS,JS
 
-This is a classic game of snake in an app-like form. To run the project just clone the repo, go into the Snake-game folder and run `java Main` in your terminal. 
+This is a classic snack game.
 
 
 

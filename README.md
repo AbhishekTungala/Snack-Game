@@ -9,7 +9,7 @@ Description
 
 **Languages:** HTML,CSS,JS
 
-This is a classic snack game.
+This is a classic PC snack game.
 
 
 

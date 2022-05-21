@@ -1,4 +1,4 @@
-## Snack-Game
+
 ![alt text](https://raw.githubusercontent.com/oikobill/Snake-game/master/buttons/logo.png "Snake Game")![alt text](https://raw.githubusercontent.com/oikobill/Snake-game/master/buttons/app_icon.png "Snake Game")
 
 
